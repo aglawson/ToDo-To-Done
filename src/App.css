@@ -17,7 +17,7 @@ body {
     min-height: 580px;
     max-width: 300px;
     background-color: #f1f5f8;
-    background-image: radial-gradient(#e6a4dd 7%, transparent 0);
+    background-image: linear-gradient(#e6a4dd 7%, transparent 0);
     background-size: 40px 40px;
     border-radius: 5%;
 }
@@ -62,6 +62,7 @@ body {
     background-color: transparent;
     font-family: "Architects Daughter", sans-serif;
     font-size: 1.3rem;
+    margin-top: 13%;
     padding: 10px 15px;
     width: 70%;
     color: #494a4b;
@@ -85,9 +86,10 @@ body {
     margin: 20px 10px;
     font-size: 1.4rem;
     font-weight: 300;
-    color: #4b494b;
+    color: #000000;
     background-color:rgb(181, 240, 184);
     font-family: "Architects Daughter", sans-serif;
-
+    background-color: rgb(234, 206, 235);
+    
 }
 
